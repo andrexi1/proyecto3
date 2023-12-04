@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+}
+
+#letter{
+  color: rgb(18, 149, 236);
+  font-size: 110px;
+  text-shadow:  1px 1px rgb(217, 19, 235),
+                2px 2px rgb(217, 19, 235),
+                3px 3px rgb(217, 19, 235),
+                4px 4px rgb(217, 19, 235),
+                5px 6px rgb(217, 19, 235),
+                7px 7px rgb(217, 19, 235),
+                8px 8px rgb(217, 19, 235);
+  display: inline-block;
+  background-color: rgba(128, 128, 128, 0.308);
+  padding-left: 10px;
+  padding-top: 10px;
+  width: 100px;
+  position:relative ;
+  left: -8px;
+  top: -8px;
+}
